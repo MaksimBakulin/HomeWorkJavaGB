@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c48a4add-b395-4d27-9c36-8998d4142d5e" name="Changes" comment="Home_work_2_Task_1_and_2_java">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_3_Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_3_Task_2.java" afterDir="false" />
+    <list default="true" id="c48a4add-b395-4d27-9c36-8998d4142d5e" name="Changes" comment="Home_work_3_Task_1_and_2_java">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_5_Task_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675438553168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Home_work_3_Task_1_and_2_java">
+      <created>1675440120825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675440120825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +96,7 @@
     <MESSAGE value="Home_work_1_java" />
     <MESSAGE value="Home_work_2_java" />
     <MESSAGE value="Home_work_2_Task_1_and_2_java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Home_work_2_Task_1_and_2_java" />
+    <MESSAGE value="Home_work_3_Task_1_and_2_java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home_work_3_Task_1_and_2_java" />
   </component>
 </project>
